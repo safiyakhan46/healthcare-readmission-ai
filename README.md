@@ -8,11 +8,7 @@ Built with **Python**, **scikit-learn**, and **Streamlit**, this project demonst
 
 ## 🚀 Live Demo
 
-🔗 Add your Streamlit URL here
-
-Example:
-
-https://your-app-name.streamlit.app
+https://healthcare-readmission-ai-bjrschq9zeuv8nz7bq8anc.streamlit.app/
 
 ---
 
@@ -77,14 +73,9 @@ The model uses patient information including:
 ---
 
 ## 📷 Application Preview
-
-Add screenshots of your application here.
-
-Example:
-
-images/app-home.png
-
-images/prediction.png
+<img width="712" height="585" alt="Screenshot 2026-08-05 194610" src="https://github.com/user-attachments/assets/b0bb62fe-4ee0-429d-9fea-067b9ef2b96f" />
+<img width="730" height="420" alt="Screenshot 2026-08-05 194529" src="https://github.com/user-attachments/assets/b3ec0191-9dfb-4f73-95c4-a97916b312fc" />
+<img width="701" height="642" alt="Screenshot 2026-08-05 194547" src="https://github.com/user-attachments/assets/8e2ae5ef-7c49-4694-adcc-f885ac3f67b2" />
 
 ---
 
