@@ -164,7 +164,7 @@ Computer Science (Artificial Intelligence) Student
 
 GitHub: https://github.com/safiyakhan46
 
-LinkedIn: *(Add your LinkedIn profile here)*
+LinkedIn: https://www.linkedin.com/in/safiya-salman-khan-573153325/
 
 ---
 
